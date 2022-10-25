@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  background: radial-gradient(circle at center, #a66401 0, #ffffff 100%);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
