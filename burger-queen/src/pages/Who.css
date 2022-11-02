@@ -1,0 +1,4 @@
+.pageWho {
+    display: flex;
+    flex-direction: row;
+}
