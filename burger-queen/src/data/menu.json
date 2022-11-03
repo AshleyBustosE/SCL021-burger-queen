@@ -22,6 +22,50 @@
         }
     ],
     "lunch": [
-        {}
+        {
+            "id": "4",
+            "item": "Hamburguesa simple",
+            "price": 10
+        },
+        {
+            "id": "5",
+            "item": "Hamburguesa doble",
+            "price": 15
+        },
+        {
+            "id": "6",
+            "item": "Agua 500ml",
+            "price": 5
+        },
+        {
+            "id": "7",
+            "item": "Agua 750ml",
+            "price": 7
+        },
+        {
+            "id": "8",
+            "item": "Bebida/gaseosa 500ml",
+            "price": 7
+        },
+        {
+            "id": "8",
+            "item": "Bebida/gaseosa 750ml",
+            "price": 10
+        },
+        {
+            "category": "Acompañamientos",
+            "items": [
+                {
+                    "id": "9",
+                    "item": "Papas fritas",
+                    "price": 5
+                },
+                {
+                    "id": "10",
+                    "item": "Aros de cebolla",
+                    "price": 5
+                }
+            ]
+        }
     ]
 }
