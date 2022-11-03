@@ -13,6 +13,9 @@ const Nav = () => {
         <li>
           <Link to="/CustomerOrder">Customer Order</Link>
         </li>
+        <li>
+          <Link to="/Kitchen">Kitchen</Link>
+        </li>
       </ul>
     </>
   );
