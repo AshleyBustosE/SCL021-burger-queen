@@ -1,6 +1,5 @@
 //import React from "react";
 import Who from "./pages/Who";
-import CustomerData from "./pages/CustomerData";
 import CustomerOrder from "./pages/CustomerOrder";
 import Kitchen from "./pages/Kitchen";
 
@@ -13,7 +12,6 @@ const RouteApp = () => {
       <Nav />
       <Routes>
         <Route path="/" element={<Who />} />
-        <Route path="/CustomerData" element={<CustomerData />} />
         <Route path="/CustomerOrder" element={<CustomerOrder />} />
         <Route path="/Kitchen" element={<Kitchen />} />
       </Routes>

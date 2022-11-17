@@ -1,9 +1,14 @@
 .pageWho {
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
+    height: auto;
 }
 
 .work-income {
     display: flex;
     flex-direction: column;
+}
+
+.imgFlintLoco {
 }

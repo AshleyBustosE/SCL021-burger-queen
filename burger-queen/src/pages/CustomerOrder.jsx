@@ -1,10 +1,18 @@
-import "./CustomerOrder.css";
 import { Link } from "react-router-dom";
+import menu from "../data/menu.json";
 
+import "./CustomerOrder.css";
+
+const breakfast = menu.breakfast;
+const lunch = menu.lunch;
+console.log(breakfast);
+console.log(lunch);
 const CustomerOrder = () => {
+  //console.log(ListMenu);
   return (
     <div className="pageCustomerOrder">
-      <div></div>
+      <div>
+      </div>
       <div></div>
       <div className="waiter">
         <div className="orderList">

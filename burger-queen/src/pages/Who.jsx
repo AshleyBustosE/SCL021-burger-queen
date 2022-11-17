@@ -6,7 +6,7 @@ const Who = () => {
     <div className="pageWho">
       <div className="work-income">
         <h1>¿Quién eres?</h1>
-        <button><Link to="/CustomerData">Mesero</Link></button>
+        <button><Link to="/CustomerOrder">Mesero</Link></button>
         <button><Link to="/Kitchen">Jefe de cocina</Link></button>
       </div>
       <div className="imgFlintLoco">
